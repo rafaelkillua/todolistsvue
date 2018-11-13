@@ -1,4 +1,5 @@
-# todo-lists
+# TODO LISTS IN VUE.JS
+https://docs.google.com/document/d/1Hcsu91He1EqXjbbojvc5jGKJYEF1wzqza_z-O3fK2W0/edit?usp=sharing
 
 ## Project setup
 ```
